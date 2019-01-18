@@ -1,5 +1,9 @@
 # ElmPhoenix
 
+parent project: https://blog.ispirata.com/get-started-with-elm-0-19-and-phoenix-1-4-291beebb350b
+
+npm install -g elm
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
